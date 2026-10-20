@@ -4,6 +4,7 @@ description: Disk cleanup. Use when the user asks to free up space, asks what is
 license: MIT
 metadata:
   version: "1.0.0"
+  updated: "2026-10-20"
 ---
 
 # Disk cleanup
